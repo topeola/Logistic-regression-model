@@ -1,6 +1,6 @@
 Logistic-regression-model
 
-The task is to build a model that uses the input features to predict whether an applicant will default
+The task is to build a model that uses the input features to predict whether an applicant will default.
 I have used logistic regression modelling and a R script has been attached in which I perform steps such as explore features of the 
 data, impute missing data, and assess the performance metrics of the model. 
 The dataset used for this project is one obtained from SAS Enterprise Miner. Dataset has 12 input variables and 1 target variable
