@@ -15,6 +15,6 @@ Loan    - Amount of Loan request,
 Mortdue - Amount due on existing mortgage,
 NINQ    - Number of recent credit inquiries,
 Reason  - Debtcon = debt consolidation, HomeImp = Home Improvement,
-Value   - Value of Current Property,
+Value   - Value of Current Property.
 
 The target variable is "Bad" and it is a binary variable with 2 levels where 1 = applicant defaulted on loan or is seriously delinquent and 0 = applicant paid loan. Approximately 20% of the the applicants in the dataset have defaulted on loans. 
